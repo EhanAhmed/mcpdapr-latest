@@ -52,8 +52,8 @@ app.MapGet("/__tools", () =>
                 type = "object",
                 properties = new
                 {
-                    a = new { type = "integer" },
-                    b = new { type = "integer" }
+                    a = new { type = "number" },
+                    b = new { type = "number" }
                 },
                 required = new[] { "a", "b" }
             }
