@@ -144,6 +144,8 @@ dapr run \
   --dapr-http-port 3500 \
   -- \
   dotnet run --no-launch-profile
+curl "http://localhost:3500/v1.0/invoke/math-service/method/sum?a=3&b=5"
+
 
 Run MCP Gateway
 cd McpGateway
