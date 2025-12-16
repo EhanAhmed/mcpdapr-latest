@@ -142,7 +142,8 @@ dapr run \
   --app-id math-service \
   --app-port 5000 \
   --dapr-http-port 3500 \
-  -- dotnet run
+  -- \
+  dotnet run --no-launch-profile
 
 Run MCP Gateway
 cd McpGateway
