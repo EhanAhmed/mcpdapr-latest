@@ -50,3 +50,4 @@ C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/refint/M
 C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.pdb
 C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.genruntimeconfig.cache
 C:/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/ref/McpGateway.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/McpGateway/obj/Debug/net8.0/McpGateway.sourcelink.json

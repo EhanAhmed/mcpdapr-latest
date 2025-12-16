@@ -31,3 +31,4 @@
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.pdb
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.genruntimeconfig.cache
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/ref/MathService.dll
+/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.sourcelink.json
