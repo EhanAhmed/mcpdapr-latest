@@ -10,7 +10,6 @@
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.csproj.AssemblyReference.cache
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.GeneratedMSBuildEditorConfig.editorconfig
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.AssemblyInfoInputs.cache
 /mnt/c/Users/Ehan.Ahmed/Desktop/concept testing/MathService/obj/Debug/net8.0/MathService.AssemblyInfo.cs
